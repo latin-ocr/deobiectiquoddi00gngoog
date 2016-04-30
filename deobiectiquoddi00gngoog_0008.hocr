@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deobiectiquoddi00gngoog_0008.png"; bbox 0 0 3150 4562; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 632 1390 857 1516">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 632 1390 857 1516">
+     <span class='ocr_line' id='line_1_1' title="bbox 632 1390 857 1516; baseline 0.058 -14"><span class='ocrx_word' id='word_1_1' title='bbox 632 1390 857 1516; x_wconf 82' lang='lat' dir='ltr'><strong>PATRI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 221 1677 1451 1816">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 221 1677 1451 1816">
+     <span class='ocr_line' id='line_1_2' title="bbox 221 1677 1451 1816; baseline 0.001 -7"><span class='ocrx_word' id='word_1_2' title='bbox 221 1725 558 1809; x_wconf 73' lang='lat' dir='ltr'><strong>cARlss1M0</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 586 1681 791 1816; x_wconf 73' lang='lat' dir='ltr'><strong>ATQUE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 820 1726 1268 1810; x_wconf 74' lang='lat' dir='ltr'>DILEOTISSIMO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1447 1677 1451 1686; x_wconf 43' lang='lat'><em>⁴</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 481 2005 1011 2064">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 481 2005 1011 2064">
+     <span class='ocr_line' id='line_1_3' title="bbox 481 2005 1011 2064; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 481 2007 557 2064; x_wconf 87' lang='lat' dir='ltr'><strong>HAS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 573 2007 798 2064; x_wconf 80' lang='lat' dir='ltr'><strong>LITERARUM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 815 2005 1011 2061; x_wconf 82' lang='lat' dir='ltr'><strong>PRIMITIAS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 630 2295 858 2344">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 630 2295 858 2344">
+     <span class='ocr_line' id='line_1_4' title="bbox 630 2295 858 2344; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 630 2295 756 2344; x_wconf 76' lang='lat' dir='ltr'>sAcRAs</span> <span class='ocrx_word' id='word_1_10' title='bbox 777 2295 858 2343; x_wconf 78' lang='lat' dir='ltr'>ESSE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1580 4562">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1580 4562">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1580 4562; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1580 4562; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
